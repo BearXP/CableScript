@@ -1,0 +1,10 @@
+DXP > Customise.
+New.
+
+
+Process:	ScriptingSystem:RunScript
+Parameters:	ProjectName=C:\Repositories\CableGen\CableScriptProjectv_15_1.PrjScr | ProcName = CableScript_v15_1.pas>RunHMI
+Caption:	CableScript
+Image:		C:\Repositories\CableGen\CableScript.bmp
+
+Place shortcut under Project when you have a 
